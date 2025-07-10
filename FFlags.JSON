@@ -1,0 +1,10 @@
+{
+    "MaxPets": 30,
+	"MaxPetsRobux": 40,
+	"BasePetSizeMult": 1,
+	
+
+	"MaxInventory": 75,
+	"MaxFurnitureInventory": 50,
+	"MaxFurniture": 80
+}
